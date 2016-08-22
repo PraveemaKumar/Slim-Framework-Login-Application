@@ -1,8 +1,11 @@
 Created a Simple login page validation using -
  
-PHP Framework : "Slim Framework"		 ~~ composer require slim/slim "3.0"
-Template 	  : "Twig Template Engine"   ~~ composer require slim/twig-view
+PHP Framework : "Slim Framework"	 ~~ composer require slim/slim "3.0"
+
+Template      : "Twig Template Engine"   ~~ composer require slim/twig-view
+
 CSS 	      : "Bootstrap Framework"
+
 DB Model      : "Laravel Eloquent ORM"   ~~ composer require illuminate/database
 
 Database Table - 'users':
