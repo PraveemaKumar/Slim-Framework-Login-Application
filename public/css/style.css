@@ -1,0 +1,22 @@
+.container{
+	margin-top: 120px;
+	width: 700px;
+}
+
+.panel-heading{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.success
+{
+	color: green;
+	font-weight: bold;
+}
+
+.error
+{
+	color: red;
+	font-weight: bold;
+}
